@@ -1,3 +1,6 @@
+# THIS IS NOT MINE. CHECK OUT THE ORIGINAL INTERSTELLAR-ASTRO
+---------------------------------------------------------------------------------------------------------
+
 # Interstellar V7
 
 Web proxy with multi-tab browser interface.
